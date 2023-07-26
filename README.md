@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasGandara
 - 👀 I’m interested in Robotics (ROS), artificial intelligence and web development.
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any AI Project with robotics involved
+- 🌱 I’m currently learning GraphQl
+- 💞️ I’m looking to collaborate on any AI Project with robotics involved. Or a web based project.
 - 📫 How to reach me: lucas17-12@hotmail.com
 
 <!---
